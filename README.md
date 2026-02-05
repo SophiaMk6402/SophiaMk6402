@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋 I'm Sophia
 
-<!--
-**SophiaMk6402/SophiaMk6402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 📊 Aspiring Data Analyst
+I'm working to turn data into **insights that drive decisions**.  
+Currently learning **Next-Gen Data Analytics with AI**, SQL, Python, and Power BI. 📚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🌱 I'm currently learning:
+-  Next-Gen Data Analytics with AI  
+- SQL (Queries, Joins, Aggregations)  
+- Python for Data Analysis  
+- Data Visualization & Power BI  
+- AI-assisted analytics techniques
+
+## 📫 Connect with Me
+- 💼 LinkedIn: https://www.linkedin.com/in/sophia-moirangthem-1b6aa835/
+- 📧 Email: your-sophiamk6402@outlook.com
